@@ -1,0 +1,57 @@
+about:
+  description: :calendar: CLI calendar application
+  license: MIT
+  homepage: https://khal.readthedocs.io/
+  head: 7dda87f
+  archived: false
+  latestVersion: v0.11.3
+  collectedAt: 2026-08-31T05:33:25Z
+timeline:
+  created: 2013-08-25
+  lastCommit: 2026-08-28
+  lastRelease: 2024-02-12
+popularity:
+  star: 3045
+  watcher: 48
+  fork: 232
+  release: 34
+  contributor: 98
+  pullRequest: 144
+  issue: 910
+language:
+  Python: 683501
+  Awk: 1276
+totalLine: 684777
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 2
+    openPR: 1
+    closedIssue: 1
+    openIssue: 1
+    commit: 11
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 4
+    openPR: 3
+    closedIssue: 2
+    openIssue: 1
+    commit: 13
+  last180d:
+    since: 2026-03-04
+    release: 0
+    mergedPR: 10
+    openPR: 4
+    closedIssue: 4
+    openIssue: 3
+    commit: 26
+  last360d:
+    since: 2025-09-05
+    release: 0
+    mergedPR: 16
+    openPR: 6
+    closedIssue: 8
+    openIssue: 14
+    commit: 38
