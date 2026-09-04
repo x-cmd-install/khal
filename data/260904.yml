@@ -7,7 +7,7 @@ about:
   head: 7dda87f
   archived: false
   latestVersion: v0.11.3
-  collectedAt: 2026-09-04T19:38:04Z
+  collectedAt: 2026-09-04T20:55:57Z
 timeline:
   created: 2013-08-25
   lastCommit: 2026-08-28
@@ -81,6 +81,69 @@ total:
   openIssue: 232
   commit: 2810
 ---
+path: /home/runner/.x-repo/github.com/pimutils/khal
+collectedAt: 2026-09-04T20:55:58Z
+loc:
+  Python:
+    code: 15716
+    comments: 1083
+    blanks: 2602
+    files: 58
+  ReStructuredText:
+    code: 2098
+    comments: 0
+    blanks: 642
+    files: 45
+  Makefile:
+    code: 143
+    comments: 6
+    blanks: 28
+    files: 1
+  Toml:
+    code: 88
+    comments: 2
+    blanks: 10
+    files: 1
+  RPMSpecfile:
+    code: 70
+    comments: 214
+    blanks: 75
+    files: 1
+  Bitbake:
+    code: 33
+    comments: 0
+    blanks: 4
+    files: 4
+  Ini:
+    code: 33
+    comments: 0
+    blanks: 5
+    files: 1
+  Yaml:
+    code: 28
+    comments: 4
+    blanks: 2
+    files: 2
+  Html:
+    code: 8
+    comments: 0
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Text:
+    code: 0
+    comments: 61
+    blanks: 0
+    files: 1
+total:
+  code: 18224
+  comments: 1370
+  blanks: 3369
+  files: 116
 ---
 date: "2026-08-24"
 repo:
