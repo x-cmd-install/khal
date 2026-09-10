@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.3"
   latestRelease: "v0.11.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:29:42Z
+  collectedAt: 2026-09-10T23:34:30Z
 timeline:
   created: 2013-08-25
   lastCommit: 2026-08-28
@@ -84,7 +84,7 @@ total:
   commit: 2810
 ---
 path: /home/runner/.x-repo/github.com/pimutils/khal
-collectedAt: 2026-09-10T18:29:44Z
+collectedAt: 2026-09-10T23:34:31Z
 loc:
   Python:
     code: 15716
