@@ -12,6 +12,28 @@
 x install khal
 ```
 
+## 代码洞察
+
+合计: **18,224** 行代码（覆盖前 5 种语言、共 **106** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 15,716 | 1,083 | 2,602 | 58 |
+| ReStructuredText | 2,098 | 0 | 642 | 45 |
+| Makefile | 143 | 6 | 28 | 1 |
+| Toml | 88 | 2 | 10 | 1 |
+| RPMSpecfile | 70 | 214 | 75 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **4.8 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/pimutils/khal>
@@ -36,30 +58,11 @@ x install khal
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 2 | 4 | 0 | 1 | 11 |
+| last60d | 2026-07-12 | 0 | 4 | 4 | 2 | 2 | 12 |
 | 90d | 2026-06-12 | 0 | 4 | 5 | 2 | 2 | 13 |
+| last180d | 2026-03-14 | 0 | 10 | 7 | 3 | 4 | 24 |
 | 360d | 2025-09-15 | 0 | 16 | 9 | 8 | 15 | 38 |
-
-## 代码规模
-
-合计: **18,224** 行代码（覆盖前 5 种语言、共 **106** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Python | 15,716 | 1,083 | 2,602 | 58 |
-| ReStructuredText | 2,098 | 0 | 642 | 45 |
-| Makefile | 143 | 6 | 28 | 1 |
-| Toml | 88 | 2 | 10 | 1 |
-| RPMSpecfile | 70 | 214 | 75 | 1 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **4.8 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+| last720d | 2024-09-20 | 0 | 31 | 20 | 23 | 42 | 90 |
 
 ## 改进这些数据
 
@@ -70,4 +73,4 @@ khal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T18:29:48Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:34:38Z._
