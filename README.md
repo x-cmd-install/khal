@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,046 · **Forks**: 234 · **Open issues**: 911 · **Contributors**: 98
+- **Stars**: 3,047 · **Forks**: 234 · **Open issues**: 911 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 2 | 4 | 0 | 1 | 11 |
-| last60d | 2026-07-13 | 0 | 4 | 4 | 2 | 2 | 12 |
-| 90d | 2026-06-13 | 0 | 4 | 5 | 2 | 2 | 13 |
-| last180d | 2026-03-15 | 0 | 9 | 7 | 3 | 4 | 24 |
-| 360d | 2025-09-16 | 0 | 16 | 9 | 8 | 14 | 38 |
-| last720d | 2024-09-21 | 0 | 31 | 20 | 23 | 42 | 90 |
+| 30d | 2026-08-13 | 0 | 2 | 4 | 0 | 1 | 11 |
+| last60d | 2026-07-14 | 0 | 4 | 4 | 2 | 2 | 12 |
+| 90d | 2026-06-14 | 0 | 4 | 5 | 2 | 2 | 13 |
+| last180d | 2026-03-16 | 0 | 9 | 7 | 3 | 4 | 24 |
+| 360d | 2025-09-17 | 0 | 16 | 9 | 8 | 13 | 38 |
+| last720d | 2024-09-22 | 0 | 31 | 20 | 23 | 41 | 90 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for khal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:57:24Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:46:33Z._
