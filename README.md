@@ -4,7 +4,7 @@
 
 :calendar: CLI calendar application
 
-[![x-cmd/install — khal Code Quality Monitoring Repo Card](https://repo.x-cmd.io/khal.svg)](https://x-cmd.com/install/khal)
+[![x-cmd/install — khal Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/khal.svg)](https://x-cmd.com/install/khal)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,051 · **Forks**: 233 · **Open issues**: 911 · **Contributors**: 98
+- **Stars**: 3,053 · **Forks**: 233 · **Open issues**: 911 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 5 | 0 | 1 | 1 |
-| last60d | 2026-07-24 | 0 | 4 | 5 | 2 | 2 | 11 |
-| 90d | 2026-06-24 | 0 | 4 | 5 | 2 | 2 | 12 |
-| last180d | 2026-03-26 | 0 | 6 | 7 | 2 | 4 | 16 |
-| 360d | 2025-09-27 | 0 | 16 | 10 | 8 | 12 | 38 |
-| last720d | 2024-10-02 | 0 | 31 | 21 | 22 | 41 | 90 |
+| 30d | 2026-08-24 | 0 | 1 | 5 | 0 | 1 | 1 |
+| last60d | 2026-07-25 | 0 | 4 | 5 | 2 | 2 | 11 |
+| 90d | 2026-06-25 | 0 | 4 | 5 | 2 | 2 | 12 |
+| last180d | 2026-03-27 | 0 | 6 | 7 | 2 | 4 | 16 |
+| 360d | 2025-09-28 | 0 | 16 | 10 | 8 | 12 | 38 |
+| last720d | 2024-10-03 | 0 | 31 | 21 | 22 | 41 | 90 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for khal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:24:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:33:28Z._
