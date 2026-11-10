@@ -24,16 +24,6 @@ x install khal
 | Toml | 88 | 2 | 10 | 1 |
 | RPMSpecfile | 70 | 214 | 75 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.8 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/pimutils/khal>
@@ -47,7 +37,7 @@ x install khal
 
 ## 流行度
 
-- **Star**: 3,087 · **Fork**: 240 · **开放 issue**: 913 · **贡献者**: 98
+- **Star**: 3,088 · **Fork**: 240 · **开放 issue**: 913 · **贡献者**: 98
 
 ## 累计统计
 
@@ -57,12 +47,12 @@ x install khal
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 1 | 7 | 1 | 1 | 1 |
-| last60d | 2026-09-09 | 0 | 3 | 10 | 1 | 1 | 3 |
-| 90d | 2026-08-10 | 0 | 5 | 14 | 1 | 2 | 14 |
-| last180d | 2026-05-12 | 0 | 7 | 16 | 3 | 4 | 17 |
-| 360d | 2025-11-13 | 0 | 18 | 19 | 8 | 11 | 41 |
-| last720d | 2024-11-18 | 0 | 33 | 30 | 21 | 39 | 93 |
+| 30d | 2026-10-11 | 0 | 1 | 7 | 1 | 1 | 1 |
+| last60d | 2026-09-11 | 0 | 3 | 10 | 1 | 1 | 3 |
+| 90d | 2026-08-12 | 0 | 5 | 14 | 1 | 2 | 14 |
+| last180d | 2026-05-14 | 0 | 7 | 16 | 3 | 3 | 17 |
+| 360d | 2025-11-15 | 0 | 17 | 19 | 8 | 11 | 41 |
+| last720d | 2024-11-20 | 0 | 33 | 30 | 20 | 39 | 93 |
 
 ## 改进这些数据
 
@@ -73,4 +63,4 @@ khal 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:10:39Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:52:24Z._

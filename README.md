@@ -24,16 +24,6 @@ Total: **18,250** lines of code across **106** files in the top 5 languages.
 | Toml | 88 | 2 | 10 | 1 |
 | RPMSpecfile | 70 | 214 | 75 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.8 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## Source
 
 - **Upstream**: <https://github.com/pimutils/khal>
@@ -47,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,087 · **Forks**: 240 · **Open issues**: 913 · **Contributors**: 98
+- **Stars**: 3,088 · **Forks**: 240 · **Open issues**: 913 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -57,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 1 | 7 | 1 | 1 | 1 |
-| last60d | 2026-09-09 | 0 | 3 | 10 | 1 | 1 | 3 |
-| 90d | 2026-08-10 | 0 | 5 | 14 | 1 | 2 | 14 |
-| last180d | 2026-05-12 | 0 | 7 | 16 | 3 | 4 | 17 |
-| 360d | 2025-11-13 | 0 | 18 | 19 | 8 | 11 | 41 |
-| last720d | 2024-11-18 | 0 | 33 | 30 | 21 | 39 | 93 |
+| 30d | 2026-10-11 | 0 | 1 | 7 | 1 | 1 | 1 |
+| last60d | 2026-09-11 | 0 | 3 | 10 | 1 | 1 | 3 |
+| 90d | 2026-08-12 | 0 | 5 | 14 | 1 | 2 | 14 |
+| last180d | 2026-05-14 | 0 | 7 | 16 | 3 | 3 | 17 |
+| 360d | 2025-11-15 | 0 | 17 | 19 | 8 | 11 | 41 |
+| last720d | 2024-11-20 | 0 | 33 | 30 | 20 | 39 | 93 |
 
 ## Improve this data
 
@@ -73,4 +63,4 @@ Install metadata for khal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:10:39Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:52:23Z._
