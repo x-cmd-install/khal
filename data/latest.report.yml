@@ -2,97 +2,97 @@ about:
   description: ":calendar: CLI calendar application"
   license: MIT
   homepage: https://khal.readthedocs.io/
-  head: 244481d
+  head: 5a7aaa1
   archived: false
   latestVersion: "v0.11.3"
   latestRelease: "v0.11.3"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T10:18:03Z
+  collectedAt: 2026-11-28T09:22:05Z
 timeline:
   created: 2013-08-25
-  lastCommit: 2026-11-26
+  lastCommit: 2026-11-27
   lastVersion: 2024-02-12
   lastRelease: 2024-02-12
   lastPrerelease: 
 popularity:
   star: 3097
   watcher: 47
-  fork: 245
+  fork: 246
   release: 34
-  contributor: 105
-  pullRequest: 596
-  issue: 914
+  contributor: 106
+  pullRequest: 600
+  issue: 915
 language:
-  Python: 693070
+  Python: 698955
   Awk: 1276
-totalBytes: 694346
+totalBytes: 700231
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
-    mergedPR: 4
-    openPR: 7
+    mergedPR: 6
+    openPR: 9
     closedIssue: 1
-    openIssue: 1
-    commit: 8
+    openIssue: 2
+    commit: 14
   last60d:
-    since: 2026-09-28
-    release: 0
-    mergedPR: 8
-    openPR: 13
-    closedIssue: 2
-    openIssue: 1
-    commit: 13
-  last90d:
-    since: 2026-08-29
+    since: 2026-09-29
     release: 0
     mergedPR: 10
     openPR: 15
     closedIssue: 2
     openIssue: 2
-    commit: 14
-  last180d:
-    since: 2026-05-31
+    commit: 19
+  last90d:
+    since: 2026-08-30
     release: 0
-    mergedPR: 14
-    openPR: 18
-    closedIssue: 4
+    mergedPR: 12
+    openPR: 17
+    closedIssue: 2
     openIssue: 3
-    commit: 27
+    commit: 20
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 16
+    openPR: 20
+    closedIssue: 4
+    openIssue: 4
+    commit: 33
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
-    mergedPR: 23
-    openPR: 21
+    mergedPR: 25
+    openPR: 23
     closedIssue: 10
-    openIssue: 9
-    commit: 52
+    openIssue: 10
+    commit: 58
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
-    mergedPR: 39
-    openPR: 28
-    closedIssue: 26
+    mergedPR: 41
+    openPR: 30
+    closedIssue: 27
     openIssue: 34
-    commit: 118
+    commit: 127
 total:
   release: 34
-  mergedPR: 435
-  openPR: 43
-  closedIssue: 688
-  openIssue: 226
-  commit: 2839
+  mergedPR: 437
+  openPR: 45
+  closedIssue: 690
+  openIssue: 225
+  commit: 2848
 ---
 path: /home/runner/.x-repo/github.com/pimutils/khal
-collectedAt: 2026-11-27T10:18:04Z
+collectedAt: 2026-11-28T09:22:07Z
 loc:
   Python:
-    code: 15916
-    comments: 1106
-    blanks: 2626
+    code: 16034
+    comments: 1112
+    blanks: 2648
     files: 58
   ReStructuredText:
-    code: 2121
+    code: 2127
     comments: 0
     blanks: 643
     files: 45
@@ -138,13 +138,13 @@ loc:
     files: 1
   Text:
     code: 0
-    comments: 69
+    comments: 70
     blanks: 0
     files: 1
 total:
-  code: 18447
-  comments: 1403
-  blanks: 3394
+  code: 18571
+  comments: 1410
+  blanks: 3416
   files: 116
 ---
 date: "2026-11-16"
