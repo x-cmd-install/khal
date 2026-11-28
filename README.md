@@ -14,12 +14,12 @@ x install khal
 
 ## Code insight
 
-Total: **18,447** lines of code across **106** files in the top 5 languages.
+Total: **18,571** lines of code across **106** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,916 | 1,106 | 2,626 | 58 |
-| ReStructuredText | 2,121 | 0 | 643 | 45 |
+| Python | 16,034 | 1,112 | 2,648 | 58 |
+| ReStructuredText | 2,127 | 0 | 643 | 45 |
 | Makefile | 143 | 6 | 28 | 1 |
 | Toml | 88 | 2 | 10 | 1 |
 | RPMSpecfile | 70 | 216 | 75 | 1 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.11.3` (2024-02-12)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 3,097 · **Forks**: 245 · **Open issues**: 914 · **Contributors**: 105
+- **Stars**: 3,097 · **Forks**: 246 · **Open issues**: 915 · **Contributors**: 106
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 435 · **Open PRs**: 43 · **Closed issues**: 688 · **Open issues**: 226 · **Commits**: 2839
+- **Releases**: 34 · **Merged PRs**: 437 · **Open PRs**: 45 · **Closed issues**: 690 · **Open issues**: 225 · **Commits**: 2848
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 4 | 7 | 1 | 1 | 8 |
-| last60d | 2026-09-28 | 0 | 8 | 13 | 2 | 1 | 13 |
-| 90d | 2026-08-29 | 0 | 10 | 15 | 2 | 2 | 14 |
-| last180d | 2026-05-31 | 0 | 14 | 18 | 4 | 3 | 27 |
-| 360d | 2025-12-02 | 0 | 23 | 21 | 10 | 9 | 52 |
-| last720d | 2024-12-07 | 0 | 39 | 28 | 26 | 34 | 118 |
+| 30d | 2026-10-29 | 0 | 6 | 9 | 1 | 2 | 14 |
+| last60d | 2026-09-29 | 0 | 10 | 15 | 2 | 2 | 19 |
+| 90d | 2026-08-30 | 0 | 12 | 17 | 2 | 3 | 20 |
+| last180d | 2026-06-01 | 0 | 16 | 20 | 4 | 4 | 33 |
+| 360d | 2025-12-03 | 0 | 25 | 23 | 10 | 10 | 58 |
+| last720d | 2024-12-08 | 0 | 41 | 30 | 27 | 34 | 127 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for khal lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:18:10Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:22:11Z._
